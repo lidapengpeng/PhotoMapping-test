@@ -19,17 +19,15 @@ PhotoMapping项目是一个用于处理和可视化照片数据的强大工具�
 - `src/TileIntersectionCalculator.cpp`: 包含计算射线与瓦片相交的逻辑
 - `src/Camera.cpp`: 包含相机相关的逻辑和功能
 - `src/PhotoInfoParser.cpp`: 解析照片信息的文件
-- 
+  
 - `include/Camera.h`: 相机类的头文件，包含相机相关的函数声明
 - `include/TileIntersectionCalculator.h`: 头文件，包含射线与瓦片相交的函数声明
 - `include/PhotoInfoParser.h`: 头文件，包含照片位姿信息解析的类和结构体声明
-- 
+  
 - `data/mesh/metadata.xml`: 包含无人机的空三文件
+  
 - `CMakeLists.txt`: CMake构建配置文件
 
-## 代码示例
-
-### 加载照片索引
 
 ## 使用方法
 
