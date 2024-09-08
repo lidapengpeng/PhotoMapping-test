@@ -1,0 +1,17 @@
+/data/mesh/*/*
+!/data/mesh/*
+
+
+/images/*
+
+/data/images/*
+/data/images/*.xml
+
+
+/x64/
+
+PhotoMapping.vcxproj
+PhotoMapping.vcxproj.filters
+PhotoMapping.vcxproj.user
+
+output.csv
